@@ -1,0 +1,14 @@
+{
+  "name": "revisa026032021",
+  "version": "1.0.0",
+  "description": "Revisão sobre as aulas iniciais do Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcio Alves",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.0.0"
+  }
+}
